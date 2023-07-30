@@ -73,3 +73,7 @@
   
   .overflow-hidden { overflow: hidden; }
   
+  h1 {
+    font-family: 'Montserrat', sans-serif; /* Use the font-family name you obtained from Google Fonts */
+  }
+  
